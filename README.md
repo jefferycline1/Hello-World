@@ -1,2 +1,3 @@
 # Hello-World
 I am working on a solo project for some songs i've put together. This project (web site) will help to keep my music organized and add structure for future music production and creation.
+My name is Jeffery Cline I live in lexington,KY Ive been fasinated by music since I was 8. Ive been studying or playing in a band or in the studio. It is my passion im 43 years old and i cant think of anything other than software development  I would consider learning. IM hoping that through this process i can have a better understanding of the process for creating something from a vision. In this process I hope to also be able to design software/app that can assist Guitarists or musicians create music and write songs.
